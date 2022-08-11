@@ -1,3 +1,7 @@
+#IntelliJ metadeta files
+.idea/
+*.iml
+
 # Compiled class file
 *.class
 
